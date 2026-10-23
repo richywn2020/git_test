@@ -1,2 +1,3 @@
 Adding some text and staging it.
 Use VS code for git commit messages
+Making a test entry
